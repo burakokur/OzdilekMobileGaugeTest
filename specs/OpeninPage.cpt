@@ -1,0 +1,3 @@
+# Uygulamanın açıldığını kontrol et
+* "5" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" Id'li elementin görünür olduğunu kontrol et

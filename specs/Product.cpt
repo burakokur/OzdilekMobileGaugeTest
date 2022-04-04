@@ -1,0 +1,11 @@
+# Random ürün seçilir ve ürün detay sayfasının açıldığı kontorl edilir
+* "3" saniye kadar bekle
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/imageView']" Xpath'li elementleri rastgele bul ve tikla
+* "3" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/relLayAddFav" Id'li elementin görünür olduğunu kontrol et
+
+# Rastgele bir ürün seç ve tıkla
+* "3" saniye kadar bekle
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/imageView']" Xpath'li elementleri rastgele bul ve tikla
+
+

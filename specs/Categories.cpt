@@ -1,0 +1,12 @@
+# Kadın seçeneğine tıklayıp pantolon sekmesine tıklanır.
+* "3" saniye kadar bekle
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem']/android.widget.TextView[@text='Kadın']" Xpath'li elementi bul ve tıkla
+* "3" saniye kadar bekle
+*"//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem']/android.widget.TextView[@text='Pantolon']" Xpath'li elementi bul ve tıkla
+
+# Rastgele bir pantolon seç
+* "2" saniye kadar bekle
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/imageView']" Xpath'li elementleri rastgele bul ve tikla
+# Favoriler butonuna tıkla
+* "3" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/relLayAddFav" Id'li elementi bul ve tıkla

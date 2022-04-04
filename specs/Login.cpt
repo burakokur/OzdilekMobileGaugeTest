@@ -1,0 +1,16 @@
+# Giriş yapma sayfasının açıldığını kontrol et
+* "3" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/etEposta" Id'li elementin görünür olduğunu kontrol et
+
+
+# Kullanıcı adını gir
+* "2" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/etEposta" Id'li elementi bul ve "burakokur@hotmail.com" textini yaz
+
+# Şifreyi gir
+* "2" saniye kadar bekle
+*  "com.ozdilek.ozdilekteyim:id/etPassword" Id'li elementi bul ve "123456789" textini yaz
+
+# Giris butonuna tıkla
+* "2" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/btnLogin" Id'li elementi bul ve tıkla

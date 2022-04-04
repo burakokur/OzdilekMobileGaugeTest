@@ -1,0 +1,13 @@
+# Alışverişe başla butonuna tıkla ve alışveriş ekranının geldiğini doğrula
+* "3" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" Id'li elementi bul ve tıkla
+* "2" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/tvMarketName" Id'li elementin görünür olduğunu kontrol et
+
+
+# Kategoriler sayfasını aç ve açıldığını doğrula
+* "2" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/nav_categories" Id'li elementi bul ve tıkla
+* "2" saniye kadar bekle
+* "//android.widget.LinearLayout/android.widget.LinearLayout[@content-desc='Kategoriler']" Xpath'li elementin görünür olduğunu kontrol et
+

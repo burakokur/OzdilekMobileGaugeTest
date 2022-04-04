@@ -1,0 +1,11 @@
+# İki kez scrool atılır.
+* "3" saniye kadar bekle
+* Sayfayı aşağı kaydır
+* "3" saniye kadar bekle
+* Sayfayı aşağı kaydır
+
+# Geri butonuna iki kere tıkla
+* "2" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/ivBack" Id'li elementi bul ve tıkla
+* "2" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/ivBack" Id'li elementi bul ve tıkla
